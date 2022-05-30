@@ -1,0 +1,25 @@
+id: I7677AFB3
+source: https://www.lotsawahouse.org
+source_file: null
+initial_creation_type: input
+imported: '2022-05-30T23:16:07.171475'
+last_modified: '2022-05-30T23:16:07.171481'
+parser: null
+source_metadata:
+  title: Situ Pema Nyinjé Wangpo
+  language: bo
+  description: 'Texts by and about the Ninth Situ, Pema Nyinjé Wangpo (si tu padma
+    nyin byed dbang po, 1774–1853):'
+  volume:
+    fF107:
+      title: A Combined Guru Yoga for Marpa, Mila, and Gampopa
+      base_file: fF107.txt
+      order: 1
+      parent: Guru Yoga
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
